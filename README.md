@@ -1,4 +1,4 @@
-# 🚀 GWS Automation Bootcamp
+# 🚀 GWS Automation Course
 
 **Automate Google Workspace with Confidence!**  
 Unlock the power of Google Sheets, Appsheet, Calendar, Gmail, Drive, Docs, Slides, Forms & more — with real-world projects.
