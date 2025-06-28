@@ -9,7 +9,7 @@ Unlock the power of Google Sheets, Appsheet, Calendar, Gmail, Drive, Docs, Slide
 
 - 🧑‍🏫 **Live Sessions** (60 Days / 60 Hours)  
 - 🌐 **Platform:** Google Meet / Zoom  
-- 🗓️ **Start Date:** 10 June 2025  
+- 🗓️ **Start Date:** 01 July 2025  
 - 🗣️ **Language:** Hindi + Hinglish  
 - 💼 **For:** Students, Professionals, Teachers, Freelancers  
 - 💰 **Fee:** ₹4000  
